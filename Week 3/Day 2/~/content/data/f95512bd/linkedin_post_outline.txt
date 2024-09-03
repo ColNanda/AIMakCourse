@@ -1,0 +1,22 @@
+1. "Kicking it off with Linear Regression: The Basics"
+2. "Key Players in the Game: 
+    a. The Dependent Variable
+    b. The Independent Variable
+    c. The Best Fit Line"
+3. "The Rules of the Game: Assumptions of Linear Regression
+    a. Linearity: The Straight Line Rule
+    b. Homoscedasticity: The Equal Variance Rule
+    c. Multivariate Normality: The Normal Distribution Rule
+    d. Independence of Errors: The No-Correlation Rule
+    e. Lack of Multicollinearity: The No-Perfect-Relationship Rule"
+4. "Why We Love It: Advantages of Linear Regression
+    a. Simplicity: Easy to Play
+    b. Interpretability: Easy to Understand"
+5. "Where It Falls Short: Disadvantages of Linear Regression
+    a. Outliers: The Unexpected Players
+    b. Non-linear Relationships: The Curveballs"
+6. "Where It's Used: Applications of Linear Regression
+    a. Business: Decision-Making Powerhouse
+    b. Medicine: Predicting Health Outcomes
+    c. Social Sciences: Understanding Society"
+7. "Wrap-Up: Why Getting the Hang of Linear Regression is a Game-Changer"
